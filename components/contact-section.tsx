@@ -47,6 +47,27 @@ export default function ContactSection() {
                 </a>
               </div>
             </div>
+
+            <div className="flex flex-col md:flex-row items-center gap-3">
+              <div className="bg-gray-100 p-3 rounded-full">
+                <img
+                  src="https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack.png"
+                  alt="Substack"
+                  className="h-5 w-5 filter grayscale"
+                />
+              </div>
+              <div>
+                <p className="text-sm text-gray-500">Substack</p>
+                <a
+                  href="https://seansimonini.substack.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:underline"
+                >
+                  seansimonini.substack.com
+                </a>
+              </div>
+            </div>
           </div>
         </div>
 

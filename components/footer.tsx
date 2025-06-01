@@ -26,6 +26,19 @@ export default function Footer() {
             >
               <Mail size={20} />
             </Link>
+            <Link
+              href="https://seansimonini.substack.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-600 hover:text-gray-900 transition-colors"
+              aria-label="Substack"
+            >
+              <img
+                src="https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack.png"
+                alt="Substack"
+                className="w-5 h-5 filter grayscale"
+              />
+            </Link>
           </div>
         </div>
       </div>

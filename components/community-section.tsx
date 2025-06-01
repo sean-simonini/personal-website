@@ -70,9 +70,9 @@ export default function CommunitySection() {
           <CardHeader className="space-y-4 pb-2">
             <div className="mx-auto w-16 h-16 rounded-full overflow-hidden bg-white flex items-center justify-center">
               <img
-                src="https://media-hosting.imagekit.io/ca738ddb741b41ae/Untitled%20design-96.png?Expires=1838896085&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yqfzo56YcpvKAerswXEa1CZTmO3UBoJF-V1qF1ZCK2Dpnrxi3ye6xdhK4v8TnMJcSm1i2QaS~73ZKH5bBtHqJ9y1VKgCdTVZnX94dGkG6b1RvT1O9ZsWIduJDzsyKvhfS9MF~P1vtib3dT5gdQxnLuypTFjE-bH2pBGUwhzbCKCouktFXEVJkw4J8yufY6RMbwY9bH9fZ0-sqtr~R3QrK~35GdaDK4P~h0UubtZjqaPFEnUnwG2vDeZPoc7hF0MtSXPqontuLSRjkEKyZ2~QrXKxOlx9Ztu~SbltTYWKlRe0id0x2bXxkxGvCbXman0hgiFbvaVqX5o2LBw6Ar8Tgw__"
+                src="https://pbs.twimg.com/profile_images/1854652411568361472/OCJxpo0M_400x400.jpg"
                 alt="Time Initiative"
-                className="w-full h-full object-cover object-center"
+                className="w-full h-full object-cover object-center filter grayscale"
               />
             </div>
             <CardTitle>
