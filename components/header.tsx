@@ -33,9 +33,9 @@ export default function Header() {
             <Link href="#contact" className="text-sm font-medium hover:text-gray-600 transition-colors">
               Contact
             </Link>
-            <Button variant="outline" size="sm" className="ml-4" asChild>
+            <Button variant="outline" size="sm" className="ml-4 bg-transparent" asChild>
               <a
-                href="https://drive.google.com/file/d/1emiesaSPV65yFvRNaAmyTc78VmaOV07M/view?usp=sharing"
+                href="https://www.canva.com/design/DAG7LOd5YNg/phfa7Q4Pfn0lzFCjZy63dA/view?utm_content=DAG7LOd5YNg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba2373b857"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -76,9 +76,9 @@ export default function Header() {
             >
               Contact
             </Link>
-            <Button variant="outline" size="sm" className="w-full" asChild>
+            <Button variant="outline" size="sm" className="w-full bg-transparent" asChild>
               <a
-                href="https://drive.google.com/file/d/1emiesaSPV65yFvRNaAmyTc78VmaOV07M/view?usp=sharing"
+                href="https://www.canva.com/design/DAG7LOd5YNg/phfa7Q4Pfn0lzFCjZy63dA/view?utm_content=DAG7LOd5YNg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba2373b857"
                 target="_blank"
                 rel="noopener noreferrer"
               >

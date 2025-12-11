@@ -13,7 +13,7 @@ export default function CommunitySection() {
           <CardHeader className="space-y-4 pb-2">
             <div className="mx-auto w-16 h-16 rounded-full overflow-hidden bg-white flex items-center justify-center">
               <img
-                src="https://media.licdn.com/dms/image/v2/D560BAQFgOqRp1v_X3Q/company-logo_200_200/company-logo_200_200/0/1724163356651/aging_initiative_at_harvard_logo?e=1749686400&v=beta&t=-D8Ubb0RY3nk25KvaRU1oGC4KbaT6oVPPKzGYs8tESc"
+                src="/images/aging-20biology-20research.png"
                 alt="Aging Initiative"
                 className="w-full h-full object-cover"
               />
@@ -31,8 +31,8 @@ export default function CommunitySection() {
           </CardHeader>
           <CardContent>
             <p>
-              Director of Policy - working to connect aging biology researchers and the larger community with decision
-              makers to ensure everyone can live healthier, for longer.
+              VP of Neuroscience and Policy (Board Member) - working to connect aging biology researchers and the larger
+              community with decision makers to ensure everyone can live healthier, for longer.
             </p>
           </CardContent>
         </Card>

@@ -26,6 +26,37 @@ export default function ResearchSection() {
             <Card className="text-center">
               <CardHeader className="space-y-4 pb-2">
                 <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
+                  <img src="/images/1631312619853.jpeg" alt="USC Rust Lab" className="w-full h-full object-cover" />
+                </div>
+                <CardTitle>University of Southern California; Rust Lab</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p>Conducting drug discovery for neuroprotective compounds by building automated analysis pipelines.</p>
+              </CardContent>
+            </Card>
+
+            <Card className="text-center">
+              <CardHeader className="space-y-4 pb-2">
+                <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
+                  <img
+                    src="/images/researchhubfoundation-logo.jpeg"
+                    alt="Research Hub Foundation"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <CardTitle>Research Hub Foundation & UMass Lowell</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p>
+                  Leading a project to identify genetic perturbations that enhance cell therapy/neuronal replacement
+                  efficacy.
+                </p>
+              </CardContent>
+            </Card>
+
+            <Card className="text-center">
+              <CardHeader className="space-y-4 pb-2">
+                <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
                   <img
                     src="https://pbs.twimg.com/profile_images/1074707204371111936/UJKKAQDO_400x400.jpg"
                     alt="Rubin Lab"
@@ -114,6 +145,37 @@ export default function ResearchSection() {
 
         <TabsContent value="works" className="space-y-6">
           <div className="space-y-8">
+            <Card className="text-center">
+              <CardHeader className="space-y-4 pb-2">
+                <div className="mx-auto w-16 h-16 rounded-full overflow-hidden bg-white flex items-center justify-center">
+                  <img
+                    src="/images/aging-20biology-20research-3.png"
+                    alt="ML Cell Therapy"
+                    className="w-3/4 h-3/4 object-contain"
+                  />
+                </div>
+                <CardTitle>
+                  <a
+                    href="https://www.canva.com/design/DAG7K_PJ0Zk/CuyOO4MQWjJutE-Kw7Oqqg/view?utm_content=DAG7K_PJ0Zk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h82d346735c"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:underline"
+                  >
+                    Machine Learning-Driven Identification of Genetic Perturbations Enhancing Survival and Integration
+                    of CNS Cell Replacement Therapies
+                  </a>
+                </CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="font-medium">Topline:</p>
+                <p className="mt-1">
+                  Simulating single cell transcriptional profiles allows ML-driven identification of transcriptional
+                  programs that enhance resilience, and perturbations that could convey that resilience to iPSC-derived
+                  neuronal cell therapies.
+                </p>
+              </CardContent>
+            </Card>
+
             <Card className="text-center">
               <CardHeader className="space-y-4 pb-2">
                 <div className="mx-auto w-16 h-16 rounded-full overflow-hidden bg-white flex items-center justify-center">
