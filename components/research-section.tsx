@@ -125,6 +125,24 @@ export default function ResearchSection() {
               <CardHeader className="space-y-4 pb-2">
                 <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
                   <img
+                    src="https://kypvuzcntmcqdlg6.public.blob.vercel-storage.com/UCSF%20LOGO.jpg"
+                    alt="UCSF Nowakowski Lab"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <CardTitle>UCSF; Nowakowski Lab</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p>
+                  Engineering neuronal cell therapies for neurodegenerative conditions in the Weill Neurosciences Institute.
+                </p>
+              </CardContent>
+            </Card>
+
+            <Card className="text-center md:col-span-2 md:max-w-md md:mx-auto">
+              <CardHeader className="space-y-4 pb-2">
+                <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
+                  <img
                     src="https://pbs.twimg.com/profile_images/1488219756083781634/IJYBz7jd_400x400.jpg"
                     alt="BU CTE Center"
                     className="w-full h-full object-cover"
