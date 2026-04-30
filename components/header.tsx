@@ -35,7 +35,7 @@ export default function Header() {
             </Link>
             <Button variant="outline" size="sm" className="ml-4 bg-transparent" asChild>
               <a
-                href="https://www.canva.com/design/DAG7LOd5YNg/phfa7Q4Pfn0lzFCjZy63dA/view?utm_content=DAG7LOd5YNg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba2373b857"
+                href="https://canva.link/7xe8ot4ewacmkj0"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -78,7 +78,7 @@ export default function Header() {
             </Link>
             <Button variant="outline" size="sm" className="w-full bg-transparent" asChild>
               <a
-                href="https://www.canva.com/design/DAG7LOd5YNg/phfa7Q4Pfn0lzFCjZy63dA/view?utm_content=DAG7LOd5YNg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba2373b857"
+                href="https://canva.link/7xe8ot4ewacmkj0"
                 target="_blank"
                 rel="noopener noreferrer"
               >

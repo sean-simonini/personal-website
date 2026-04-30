@@ -23,6 +23,25 @@ export default function ResearchSection() {
 
         <TabsContent value="labs" className="space-y-6">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {/* Row 1: UCSF (left), USC Rust (right) */}
+            <Card className="text-center">
+              <CardHeader className="space-y-4 pb-2">
+                <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
+                  <img
+                    src="https://kypvuzcntmcqdlg6.public.blob.vercel-storage.com/UCSF%20LOGO.jpg"
+                    alt="UCSF Nowakowski Lab"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <CardTitle>UCSF; Nowakowski Lab</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p>
+                  Engineering neuronal cell therapies for neurodegenerative conditions in the Weill Neurosciences Institute.
+                </p>
+              </CardContent>
+            </Card>
+
             <Card className="text-center">
               <CardHeader className="space-y-4 pb-2">
                 <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
@@ -35,6 +54,7 @@ export default function ResearchSection() {
               </CardContent>
             </Card>
 
+            {/* Row 2: Research Hub (left), Harvard (right) */}
             <Card className="text-center">
               <CardHeader className="space-y-4 pb-2">
                 <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
@@ -82,6 +102,7 @@ export default function ResearchSection() {
               </CardContent>
             </Card>
 
+            {/* Row 3: UMass Med (left), UMass Lowell (right) */}
             <Card className="text-center">
               <CardHeader className="space-y-4 pb-2">
                 <div className="mx-auto w-16 h-16 rounded-full overflow-hidden bg-white">
@@ -121,7 +142,8 @@ export default function ResearchSection() {
               </CardContent>
             </Card>
 
-            <Card className="text-center">
+            {/* Row 4: BU CTE (centered) */}
+            <Card className="text-center md:col-span-2 md:max-w-md md:mx-auto">
               <CardHeader className="space-y-4 pb-2">
                 <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
                   <img
