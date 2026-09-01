@@ -17,8 +17,8 @@ export default function Hero() {
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight">Sean Simonini</h1>
             <h2 className="text-xl md:text-2xl font-medium text-gray-700">Neuroscience and Biotechnology Policy</h2>
             <p className="text-base md:text-lg text-gray-600">
-              Working on regenerative therapies for patients suffering from neurodegenerative diseases such as ALS and
-              conditions such as Traumatic Brain Injuries.
+              Working on regenerative therapies for patients suffering from neurological conditions such as stroke, ALS, and
+              traumtic brain injuries.
             </p>
             <div className="flex flex-wrap justify-center gap-4 pt-2">
               <Link

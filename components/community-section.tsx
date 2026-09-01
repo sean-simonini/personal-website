@@ -88,7 +88,7 @@ export default function CommunitySection() {
           </CardHeader>
           <CardContent>
             <p>
-              Member of the inaugural cohort of the Time Fellowship, working to expand aging biology investment;
+              Member of the inaugural cohort of the Time Fellowship, working to expand aging biology investment,
               currently mentoring members of Cohort 2!
             </p>
             <p className="mt-2">

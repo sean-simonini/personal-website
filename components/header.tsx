@@ -3,8 +3,6 @@
 import { useState } from "react"
 import Link from "next/link"
 import { Menu, X } from "lucide-react"
-import { Button } from "@/components/ui/button"
-
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
@@ -33,15 +31,6 @@ export default function Header() {
             <Link href="#contact" className="text-sm font-medium hover:text-gray-600 transition-colors">
               Contact
             </Link>
-            <Button variant="outline" size="sm" className="ml-4 bg-transparent" asChild>
-              <a
-                href="https://canva.link/7xe8ot4ewacmkj0"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Resume
-              </a>
-            </Button>
           </nav>
 
           {/* Mobile Menu Button */}
@@ -76,15 +65,6 @@ export default function Header() {
             >
               Contact
             </Link>
-            <Button variant="outline" size="sm" className="w-full bg-transparent" asChild>
-              <a
-                href="https://canva.link/7xe8ot4ewacmkj0"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Resume
-              </a>
-            </Button>
           </div>
         </div>
       )}

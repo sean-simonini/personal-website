@@ -33,11 +33,11 @@ export default function ResearchSection() {
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <CardTitle>UCSF; Nowakowski Lab</CardTitle>
+                <CardTitle>UCSF, Nowakowski Lab</CardTitle>
               </CardHeader>
               <CardContent>
                 <p>
-                  Engineering neuronal cell therapies for neurodegenerative conditions in the Weill Neurosciences Institute.
+                  Engineering neural grafts for ALS and stroke in the Weill Neurosciences Institute.
                 </p>
               </CardContent>
             </Card>
@@ -47,10 +47,10 @@ export default function ResearchSection() {
                 <div className="mx-auto w-16 h-16 rounded-full overflow-hidden">
                   <img src="/images/1631312619853.jpeg" alt="USC Rust Lab" className="w-full h-full object-cover" />
                 </div>
-                <CardTitle>University of Southern California; Rust Lab</CardTitle>
+                <CardTitle>University of Southern California, Rust Lab</CardTitle>
               </CardHeader>
               <CardContent>
-                <p>Conducting drug discovery for neuroprotective compounds by building automated analysis pipelines.</p>
+                <p>Advancing neural cell therapies and identifying neuroprotective mechanisms for stroke.</p>
               </CardContent>
             </Card>
 
@@ -90,7 +90,7 @@ export default function ResearchSection() {
                     rel="noopener noreferrer"
                     className="hover:underline"
                   >
-                    Harvard University (SCRB); Rubin Lab
+                    Harvard University (SCRB), Rubin Lab
                   </a>
                 </CardTitle>
               </CardHeader>
@@ -112,7 +112,7 @@ export default function ResearchSection() {
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <CardTitle>UMass Medical School; Henninger Lab</CardTitle>
+                <CardTitle>UMass Medical School, Henninger Lab</CardTitle>
               </CardHeader>
               <CardContent>
                 <p>
@@ -131,7 +131,7 @@ export default function ResearchSection() {
                     className="w-3/4 h-3/4 object-contain"
                   />
                 </div>
-                <CardTitle>UMass Lowell; Melamed Lab for Computational Biology</CardTitle>
+                <CardTitle>UMass Lowell, Melamed Lab for Computational Biology</CardTitle>
               </CardHeader>
               <CardContent>
                 <p>
