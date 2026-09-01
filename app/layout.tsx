@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Sean Simonini | Neuroscience and Biotechnology Policy",
   description:
-    "Working on regenerative therapies for patients suffering from neurodegenerative diseases such as ALS and conditions such as Traumatic Brain Injuries.",
+    "Working on regenerative therapies for patients suffering from neurological conditions such as stroke, ALS, and traumtic brain injuries.",
   icons: {
     icon: [
       {
