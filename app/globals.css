@@ -29,7 +29,7 @@ body {
 
 .page-shell {
   max-width: 640px;
-  margin-left: 0;
+  margin-inline: auto;
   padding: clamp(3rem, 9vw, 6rem) clamp(32px, 5vw, 40px) clamp(4rem, 12vw, 8rem);
 }
 .masthead {
